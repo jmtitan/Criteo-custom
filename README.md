@@ -1,4 +1,3 @@
 # Criteo-custom
-Criteo dataset for Multi-touch Attribution and Custom Method
+Script to modifiy Criteo dataset for Multi-touch Attribution.
 
-"DCRMTA: Unbiased Causal Representation for Multi-touch Attribution" IJCAL under review.
